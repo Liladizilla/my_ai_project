@@ -1,4 +1,4 @@
-flask
+pillow
 gunicorn
 requests
 numpy
@@ -6,3 +6,4 @@ fastapi
 uvicorn
 diffusers
 torch
+transformers
